@@ -16,3 +16,4 @@ ggplot(data=subset(pf,!is.na(gender)),aes(x=friend_count))+geom_histogram(binwid
 #using by command to apply to function by categories to one variable
 table(pf$gender)
 by(pf$friend_count,pf$gender,summary)
+#To see if I can commit and push without leaving RStudio
