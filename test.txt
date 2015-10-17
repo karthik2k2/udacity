@@ -1,1 +1,2 @@
 this is a test.Hopefully it can be pushed to github
+i am trying to make a lot of this work with windows and may be the same thing can be done also
