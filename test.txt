@@ -2,3 +2,5 @@ this is a test.Hopefully it can be pushed to github
 i am trying to make a lot of this work with windows and may be the same thing can be done also
 This might work well.
 plus I hope it does cos it is the only thing we need to ensure the working of the new committee which will be a great way to learn together.
+If this thing works it will be great.
+yes the git gutter is a really helpful application which shows how it is done.
